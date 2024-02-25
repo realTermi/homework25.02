@@ -1,0 +1,31 @@
+
+.number1{
+    color: white;
+    background-color: #2F303A;
+    
+}
+.number2{
+    background-color: #2196F3;
+    color: white;
+}
+.number3{
+    color: black;
+    background-color: #F5F4FA;
+    display: flex;
+    flex-wrap: wrap;
+     margin: 0 auto;
+}
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+.img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+.footer{
+    background-color: #2F303A;
+    color: white;
+}
